@@ -1,0 +1,6 @@
+framework module Pods_mm_iotTests {
+  umbrella header "Pods-mm-iotTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
