@@ -11,6 +11,6 @@
 #endif
 
 
-FOUNDATION_EXPORT double Pods_mm_iotUITestsVersionNumber;
-FOUNDATION_EXPORT const unsigned char Pods_mm_iotUITestsVersionString[];
+FOUNDATION_EXPORT double Pods_mm_iotTests_dev_VersionNumber;
+FOUNDATION_EXPORT const unsigned char Pods_mm_iotTests_dev_VersionString[];
 

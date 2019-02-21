@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "33F947DFDA6504B307A02975EF11D23A"
-               BuildableName = "Pods_mm_iotTests.framework"
-               BlueprintName = "Pods-mm-iotTests"
+               BlueprintIdentifier = "90B1DB2D25ED0611766A24E564AFC7DE"
+               BuildableName = "Pods_mm_iotTests_stg_.framework"
+               BlueprintName = "Pods-mm-iotTests(stg)"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,9 +45,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "33F947DFDA6504B307A02975EF11D23A"
-            BuildableName = "Pods_mm_iotTests.framework"
-            BlueprintName = "Pods-mm-iotTests"
+            BlueprintIdentifier = "90B1DB2D25ED0611766A24E564AFC7DE"
+            BuildableName = "Pods_mm_iotTests_stg_.framework"
+            BlueprintName = "Pods-mm-iotTests(stg)"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
